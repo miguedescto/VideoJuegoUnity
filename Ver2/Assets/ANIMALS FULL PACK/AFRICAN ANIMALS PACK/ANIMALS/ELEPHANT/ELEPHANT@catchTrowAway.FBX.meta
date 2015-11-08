@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d49226fcd936fbc4ab7774fb288c504a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ELEPHANT_ Tail3
+    100002: ELEPHANT_ Tail1
+    100004: ELEPHANT_ Tail
+    100006: ELEPHANT_ Tail5
+    100008: ELEPHANT_ Tail4
+    100010: ELEPHANT_ Tail2
+    100012: Factice001
+    100014: Factice002
+    100016: ELEPHANT_ Head
+    100018: ELEPHANT_ Tail6
+    100020: ELEPHANT_ Neck1
+    100022: ELEPHANT_ Neck
+    100024: ELEPHANT_ Spine
+    100026: ELEPHANT_
+    100028: //RootNode
+    100030: ELEPHANT_ R Foot
+    100032: ELEPHANT_ R Calf
+    100034: ELEPHANT_ R Thigh
+    100036: ELEPHANT_ L Foot
+    100038: ELEPHANT_ L Calf
+    100040: ELEPHANT_ L Thigh
+    100042: ELEPHANT_ R Hand
+    100044: ELEPHANT_ R Forearm
+    100046: ELEPHANT_ R UpperArm
+    100048: ELEPHANT_ R Clavicle
+    100050: ELEPHANT_ L Hand
+    100052: ELEPHANT_ L Forearm
+    100054: ELEPHANT_ L UpperArm
+    100056: ELEPHANT_ L Clavicle
+    100058: ELEPHANt_ear_L_2
+    100060: ELEPHANt_ear_L_1
+    100062: ELEPHANt_ear_R_2
+    100064: ELEPHANt_ear_R_1
+    100066: ELEPHANT_ Queue de cheval 21
+    100068: ELEPHANT_ Queue de cheval 2
+    100070: ELEPHANT_ Queue de cheval 18
+    100072: ELEPHANT_ Queue de cheval 17
+    100074: ELEPHANT_ Queue de cheval 16
+    100076: ELEPHANT_ Queue de cheval 15
+    100078: ELEPHANT_ Queue de cheval 14
+    100080: ELEPHANT_ Queue de cheval 13
+    100082: ELEPHANT_ Queue de cheval 12
+    100084: ELEPHANT_ Queue de cheval 11
+    100086: ELEPHANT_ Queue de cheval 1
+    100088: ELEPHANT_ Spine1
+    100090: ELEPHANT_ Pelvis
+    400000: ELEPHANT_ Tail3
+    400002: ELEPHANT_ Tail1
+    400004: ELEPHANT_ Tail
+    400006: ELEPHANT_ Tail5
+    400008: ELEPHANT_ Tail4
+    400010: ELEPHANT_ Tail2
+    400012: Factice001
+    400014: Factice002
+    400016: ELEPHANT_ Head
+    400018: ELEPHANT_ Tail6
+    400020: ELEPHANT_ Neck1
+    400022: ELEPHANT_ Neck
+    400024: ELEPHANT_ Spine
+    400026: ELEPHANT_
+    400028: //RootNode
+    400030: ELEPHANT_ R Foot
+    400032: ELEPHANT_ R Calf
+    400034: ELEPHANT_ R Thigh
+    400036: ELEPHANT_ L Foot
+    400038: ELEPHANT_ L Calf
+    400040: ELEPHANT_ L Thigh
+    400042: ELEPHANT_ R Hand
+    400044: ELEPHANT_ R Forearm
+    400046: ELEPHANT_ R UpperArm
+    400048: ELEPHANT_ R Clavicle
+    400050: ELEPHANT_ L Hand
+    400052: ELEPHANT_ L Forearm
+    400054: ELEPHANT_ L UpperArm
+    400056: ELEPHANT_ L Clavicle
+    400058: ELEPHANt_ear_L_2
+    400060: ELEPHANt_ear_L_1
+    400062: ELEPHANt_ear_R_2
+    400064: ELEPHANt_ear_R_1
+    400066: ELEPHANT_ Queue de cheval 21
+    400068: ELEPHANT_ Queue de cheval 2
+    400070: ELEPHANT_ Queue de cheval 18
+    400072: ELEPHANT_ Queue de cheval 17
+    400074: ELEPHANT_ Queue de cheval 16
+    400076: ELEPHANT_ Queue de cheval 15
+    400078: ELEPHANT_ Queue de cheval 14
+    400080: ELEPHANT_ Queue de cheval 13
+    400082: ELEPHANT_ Queue de cheval 12
+    400084: ELEPHANT_ Queue de cheval 11
+    400086: ELEPHANT_ Queue de cheval 1
+    400088: ELEPHANT_ Spine1
+    400090: ELEPHANT_ Pelvis
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
